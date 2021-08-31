@@ -1,3 +1,6 @@
+/* Copyright August 2021, Nasir Khurshid. All rights reserved. */
+
+
 #include <iostream>
 #include <vector>
 #include <string>
